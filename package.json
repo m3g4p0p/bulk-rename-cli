@@ -1,0 +1,12 @@
+{
+  "name": "bulk-rename-cli",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
+}
